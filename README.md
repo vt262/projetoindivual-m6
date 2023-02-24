@@ -20,4 +20,4 @@ npm install --save-dev nodemon
 
 
 
-Autor Fabiano Almeida.
+Autor Victor Soares.
